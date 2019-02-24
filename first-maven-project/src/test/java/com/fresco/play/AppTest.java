@@ -1,4 +1,4 @@
-package com.freco.play;
+package com.fresco.play;
 
 import static org.junit.Assert.assertTrue;
 
